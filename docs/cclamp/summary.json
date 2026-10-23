@@ -1,0 +1,27 @@
+{
+  "case": "cclamp",
+  "nelx": 90,
+  "nely": 120,
+  "volfrac": 0.326,
+  "penal": 3,
+  "rmin": 1.5,
+  "filter": "density",
+  "compliance": 857.9658361029273,
+  "volume": 0.32599889481585737,
+  "iterations": 192,
+  "converged": true,
+  "runtime_s": 18.59,
+  "max_von_mises": 49.19534640821668,
+  "grayness": 0.10332194805416843,
+  "units": {
+    "length": "mm",
+    "force": "N",
+    "stress": "MPa",
+    "compliance": "N*mm"
+  },
+  "mass_g": 5.265881881220198,
+  "yield_strength": 50.0,
+  "safety_factor": 1.016356294863876,
+  "stl_triangles": 41120,
+  "stl_volume": 4230.904968353223
+}

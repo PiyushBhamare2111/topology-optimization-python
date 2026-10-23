@@ -1,0 +1,24 @@
+{
+  "case": "lbracket",
+  "nelx": 100,
+  "nely": 100,
+  "volfrac": 0.4,
+  "penal": 3,
+  "rmin": 1.5,
+  "filter": "density",
+  "compliance": 229.78077678735445,
+  "volume": 0.40000014550243845,
+  "iterations": 228,
+  "converged": true,
+  "runtime_s": 22.43,
+  "max_von_mises": 0.7479227147384311,
+  "grayness": 0.08084233824833639,
+  "units": {
+    "length": "-",
+    "force": "-",
+    "stress": "-",
+    "compliance": "-"
+  },
+  "stl_triangles": 49172,
+  "stl_volume": 25720.31590011109
+}

@@ -1,0 +1,24 @@
+{
+  "case": "cantilever",
+  "nelx": 80,
+  "nely": 40,
+  "volfrac": 0.4,
+  "penal": 3,
+  "rmin": 1.5,
+  "filter": "density",
+  "compliance": 84.7941506351066,
+  "volume": 0.4000001123603331,
+  "iterations": 212,
+  "converged": true,
+  "runtime_s": 5.23,
+  "max_von_mises": 0.7926383145424407,
+  "grayness": 0.1507108135977846,
+  "units": {
+    "length": "-",
+    "force": "-",
+    "stress": "-",
+    "compliance": "-"
+  },
+  "stl_triangles": 25448,
+  "stl_volume": 5121.06388885457
+}

@@ -1,0 +1,24 @@
+{
+  "case": "mbb",
+  "nelx": 120,
+  "nely": 40,
+  "volfrac": 0.5,
+  "penal": 3,
+  "rmin": 1.5,
+  "filter": "heaviside",
+  "compliance": 188.17061890368564,
+  "volume": 0.5000000050229217,
+  "iterations": 400,
+  "converged": false,
+  "runtime_s": 13.6,
+  "max_von_mises": 1.4320025095035323,
+  "grayness": 0.0010422520138913816,
+  "units": {
+    "length": "-",
+    "force": "-",
+    "stress": "-",
+    "compliance": "-"
+  },
+  "stl_triangles": 92216,
+  "stl_volume": 19087.562675257253
+}
